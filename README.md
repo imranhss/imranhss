@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranhss&label=Profile%20views&color=0e75b6&style=flat" alt="imranhss" /> </p>
 
+<img align="right" src="https://github.com/imranhss/imranhss/blob/main/giphy.gif" />
+
 - 🔭 I’m currently working on [IsDB-BISEW Project](As JEE Trainer)
 
 - 🌱 I’m currently learning **MIT, JU**
