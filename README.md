@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranhss&label=Profile%20views&color=0e75b6&style=flat" alt="imranhss" /> </p>
 
-<img align="right" src="https://github.com/imranhss/imranhss/blob/main/giphy.gif" />
+<img src="https://raw.githubusercontent.com/imranhss/imranhss/main/giphy.gif" alt="coding" align="right">
 
 - 🔭 I’m currently working on [IsDB-BISEW Project](As JEE Trainer)
 
