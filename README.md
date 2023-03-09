@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **emranhss@gmail.com**
 
-- 📄 Know about my experiences [emranhss.com](emranhss.com)
+- 📄 Know about my experiences [emranhss.com](www.emranhss.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
